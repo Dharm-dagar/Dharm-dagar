@@ -26,17 +26,18 @@ I enjoy working on **full-stack development**, system design, and modern web tec
 
 ## 🛠️ Skills
 
-**Languages:**  
-- C++, JavaScript, Python
+.Languages:C++, JavaScript, Python
+.Frontend:React.js, Tailwind CSS, HTML, CSS
+.Backend:Node.js, Express, MongoDB, REST APIs
+.Tools:Git, GitHub, Postman, Docker (basic)
 
-**Frontend:**  
-- React.js, Tailwind CSS, HTML, CSS
 
-**Backend:**  
-- Node.js, Express, MongoDB, REST APIs
 
-**Tools:**  
-- Git, GitHub, Postman, Docker (basic)
+
+
+
+
+
 
 
 
