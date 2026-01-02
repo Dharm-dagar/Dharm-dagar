@@ -21,9 +21,11 @@ I enjoy solving complex engineering problems and building scalable, production-r
 ## Links:
 ---
 
-- 📄 [Resume](https://github.com/Dharm-dagar)
-- 💼 [LinkedIn](https://linkedin.com/in/dharm-singh-dagar)
-- 💻 [LeetCode](https://leetcode.com/)
+- 📄 [Resume](https://drive.google.com/file/d/1bm1y50NkKO3jDStUmTLd3DZi7ABxZdAe/view)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dharm-singh-dagar-4bb36628a/)
+- 🧠 [LeetCode](https://leetcode.com/u/Dharmsingh/)
+- 🧑‍🍳 [CodeChef](https://www.codechef.com/users/ddrj18)
+- 🐦 [Twitter / X](https://x.com/dharm31503)
 - 🌐 [Portfolio](https://dharmsingh.com)
 - 🐙 [GitHub](https://github.com/Dharm-dagar)
 
@@ -71,9 +73,8 @@ I enjoy solving complex engineering problems and building scalable, production-r
 ## Achievements:
 ---
 
-- 🧩 Solved **400+ LeetCode problems**  
-- 🥈 **Runner-up — Hack IIITV-ICD 2025** (AI Resume Matcher in 36 hours)  
-- 🎓 **NVIDIA Certified** — Deep Learning (CNN workflows)  
-- 🛒 **Flipkart GRiD 6.0 Qualifier** — SDE Track  
-- ☁️ **Google Cloud Skills Boost** — IAM, Kubernetes labs  
-
+- 🧩 Solved **400+ LeetCode problems**
+- 🥈 **Runner-up — Hack IIITV-ICD 2025** (AI Resume Matcher in 36 hours)
+- 🎓 **NVIDIA Certified** — Deep Learning (CNN workflows)
+- 🛒 **Flipkart GRiD 6.0 Qualifier** — SDE Track
+- ☁️ **Google Cloud Skills Boost** — IAM, Kubernetes labs
