@@ -26,8 +26,7 @@ I enjoy solving complex engineering problems and building scalable, production-r
 - 🧠 [LeetCode](https://leetcode.com/u/Dharmsingh/)
 - 🧑‍🍳 [CodeChef](https://www.codechef.com/users/ddrj18)
 - 🐦 [Twitter / X](https://x.com/dharm31503)
-- 🌐 [Portfolio](https://dharmsingh.com)
-- 🐙 [GitHub](https://github.com/Dharm-dagar)
+
 
 ---
 
