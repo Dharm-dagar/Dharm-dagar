@@ -21,7 +21,7 @@ I enjoy solving complex engineering problems and building scalable, production-r
 ## Links:
 ---
 
-- 📄 [Resume](https://drive.google.com/file/d/1bm1y50NkKO3jDStUmTLd3DZi7ABxZdAe/view)
+- 📄 [Resume](https://drive.google.com/file/d/1LS00GKkIzewKVSxqadfl6U8k0x78Snsd/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dharm-singh-dagar-4bb36628a/)
 - 🧠 [LeetCode](https://leetcode.com/u/Dharmsingh/)
 - 🧑‍🍳 [CodeChef](https://www.codechef.com/users/ddrj18)
