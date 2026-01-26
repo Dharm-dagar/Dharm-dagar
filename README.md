@@ -51,9 +51,9 @@ I enjoy solving complex engineering problems and building scalable, production-r
 - Integrated outputs into an interactive **React dashboard**, reducing manual inspection workload by **75%**.  
 - Delivered annotated videos, best-frame snapshots, and COCO-style JSON reports.
 
-**Software Engineer (Freelance) - Afterquery Experts (remote)
+**Software Engineer (Freelance) - Afterquery Experts (remote)**
 
-**Software Developer Intern - Xelron Ai (Bengaluru)
+**Software Developer Intern - Xelron Ai (Bengaluru)**
 
 ---
 
